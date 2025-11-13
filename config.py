@@ -1,7 +1,7 @@
 import os
 
 class Config(object):
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8450499510:AAF-Hil0GQFPAWkVXdMvmqh4JIfYLGJER9M"
     API_ID = 26375665
     API_HASH = "568839157ce65f4d3a91647f022b6737"
     ADMIN = '6834250190'.split(',')
